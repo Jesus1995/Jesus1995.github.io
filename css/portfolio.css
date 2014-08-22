@@ -4,7 +4,7 @@ body {
     height: 100%;
     font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
-    background-color: #f3f3f3;
+    background-color: #FC0909;
 }
 
 html {
@@ -64,7 +64,7 @@ a:focus {
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: #000;
+    background-color: #FC0909;
 }
 
 .navbar-custom .navbar-brand {
@@ -72,7 +72,7 @@ a:focus {
 }
 
 .navbar-custom .navbar-brand:focus {
-    outline: 0;
+    outline: 100;
 }
 
 .navbar-custom .navbar-brand .navbar-toggle {
@@ -121,7 +121,7 @@ a:focus {
 
     .top-nav-collapse {
         padding: 0;
-        background-color: #000;
+        background-color: #111;
     }
 
     .navbar-custom.top-nav-collapse {
@@ -136,7 +136,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/overview.jpg) no-repeat bottom center scroll;
+    background: url(../img/LEONARD.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -177,7 +177,7 @@ a:focus {
     height: 70px;
     margin-top: 15px;
     padding: 7px 16px;
-    border: 2px solid #fff;
+    border: 2px solid #ff7;
     border-radius: 35px;
     font-size: 40px;
     color: #fff;
@@ -255,7 +255,7 @@ a:focus {
     height:auto;
     padding: 0;
     color: #fff;
-    background: url(../img/computertable.jpg) no-repeat bottom center scroll;
+    background: url(../img/home-img.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -270,12 +270,12 @@ a:focus {
 }
 
 #about , #contact{
-    color: #000;
+    color: #FFF;
 }
 
 #about{
     padding:50px 0 100px 0;
-     background: #18bc9c;
+     background: #000000;
 }
 
 @media(min-width:767px) {
